@@ -10,7 +10,8 @@ The versatility of Graphs makes them a popular choice in various domains, includ
 
 For Example, images can be represented as a graph. Each pixel is a node, and edges represent relationships between neighboring pixels.
 
-![](E:\Academics\Third%20Year\First%20Semester\Design_Credit\Graph-Neural-Networks\Graph%20Image%201.png)
+![](/Graph%20Image%201.png)
+
 
 This allows for the application of graph-based algorithms to image processing and computer vision tasks.
 
