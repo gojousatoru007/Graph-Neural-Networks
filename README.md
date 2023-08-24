@@ -30,7 +30,8 @@ But since, graphs are so versatile they can also be applied to domains where the
 
 For Example, images can be represented as a graph. Each pixel is a node, and edges represent relationships between neighboring pixels.
 
-![](E:\Academics\Third%20Year\First%20Semester\Design_Credit\Graph-Neural-Networks\Graph%20Image%201.png)
+![](/Graph%20Image%201.png)
+
 
 This allows for the application of graph-based algorithms to image processing and computer vision tasks.
 
@@ -151,6 +152,7 @@ information more efficiently, which produces better results.
 # Graph Theory
 
 Graph theory is a fundamental branch of mathematics that deals with the study of graphs and networks. 
+<<<<<<< HEAD
 A graph is a visual representation of complex data structures that helps us understand the relationships between different entities. Graph theory provides us with tools to model and analyze a vast array of real-world problems, such as transportation systems, social networks, and internet connectivity.
 
 
@@ -158,3 +160,8 @@ A graph is a visual representation of complex data structures that helps us unde
 ```python
 print("Hello World")
 ```
+=======
+A graph is a visual representation of complex data structures that helps us understand the relationships 
+between different entities. Graph theory provides us with tools to model and analyze a vast array 
+of real-world problems, such as transportation systems, social networks, and internet connectivity.
+>>>>>>> 25c5c4f231d4de9c0db199d3794296973bac90e5
